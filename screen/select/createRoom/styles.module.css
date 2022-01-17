@@ -1,0 +1,7 @@
+.dragOver {
+    background-color: aqua !important;
+}
+
+.dragLeave {
+    background-color: pink;
+}

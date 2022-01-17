@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Vampiro+One&display=swap');
+
+.hero {
+    font-family: 'Vampiro One', cursive;
+    font-size: 80px;
+    text-align: center;
+    margin: 10px 0;
+}
+
+.smallHero {
+    font-family: 'Vampiro One', cursive;
+    font-size: 20px;
+    text-align: center;
+    user-select: none;
+    margin: 5px 0;
+    position: absolute;
+    top: 5px;
+    left: 50%;
+    transform: translateX(-50%);
+}

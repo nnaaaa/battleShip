@@ -1,0 +1,16 @@
+.title {
+    font-size: 15px;
+    color: gray;
+    font-weight: bold;
+    text-align: center;
+    margin: 10px 0;
+    user-select: none;
+}
+.title:hover {
+    opacity: 0.7;
+    cursor: pointer;
+}
+
+.info {
+    margin: 0 10px 10px 0;
+}
